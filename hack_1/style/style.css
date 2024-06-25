@@ -1,0 +1,62 @@
+:root{
+    --bg-blue:#93B5C9;
+    --bg-wine:#AB2849;
+}
+
+.c1{
+    position: relative;
+    width: 1525px;
+    height: 252px;
+    /* bottom: 1995.5px; */
+    left: 10px;
+    background-color: grey;
+}
+
+.c2 {
+    position: relative;
+    width: 1525px;
+    height: 450px;
+    /* bottom: 1975.5px; */
+    left: 10px;
+    background-color: #d46767;
+}
+
+.c3 {
+    position: relative;
+    width: 1155px;
+    height: 204px;
+    top: 20px;
+    left: 380px;
+    background-color: #d46767; }
+
+.c4 {
+        position: relative;
+        width: 1155px;
+        height: 204px;
+        top: 40px;
+        left: 380px;
+        background-color: #d46767; }
+
+.c5 {
+    position: relative;
+    width: 1155px;
+    height: 204px;
+    top: 60px;
+    left: 380px;
+    background-color: #d46767;}
+.c6 {
+    position: relative;
+    width: 1155px;
+    height: 204px;
+    top: 80px;
+    left: 380px;
+    background-color: #d46767;}
+.c7 {
+    position: relative;
+    width: 1400px;
+    height: 150px;
+    top: 100px;
+    left: 80px;
+    right: 200px;
+    background-color: #d46767;
+}
